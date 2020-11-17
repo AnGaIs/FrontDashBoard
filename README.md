@@ -6,16 +6,14 @@
 
 ## Descrição
 
-Portfolio com a criação de alguns Dashboards em diversas linguagens.
+Portfolio com a criação de alguns Dashboards.
 
 
 
 - VueJS
-- 
+- ReactJS
 
 ## Screens
-
-Seguem algumas teslas 
 
 <p align="center">
   <img width="900" src="https://wpimg.wallstcn.com/a5894c1b-f6af-456e-82df-1151da0839bf.png">
@@ -25,7 +23,7 @@ Seguem algumas teslas
 ## Tecnologias utilizadas
 
 - VueJS - [Vue](https://github.com/vuejs/vue) e [Elements UI](https://github.com/ElemeFE/element)
-- 
+- React - [ReactJS](https://pt-br.reactjs.org/) , [NextJS](https://nextjs.org/) e [Tailwind CSS](https://tailwindcss.com/)
 
 
 
