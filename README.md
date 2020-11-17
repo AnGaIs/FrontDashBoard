@@ -1,6 +1,4 @@
-<img src="https://github.com/AnGaIs/FrontDashBoard/blob/master/screens/angaisdev.png" width="700" alt=""/>
-
-
+<img src="https://github.com/AnGaIs/FrontDashBoard/blob/master/screens/angaisdev.png" width="400" alt=""/>
 
 ## Descrição
 
