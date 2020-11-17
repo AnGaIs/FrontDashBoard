@@ -15,7 +15,7 @@ Portfolio com a criação de alguns Dashboards.
 
 ## Screens
 
-<img src="https://github.com/AnGaIs/FrontDashBoard/blob/master/screens/dash.png" width="700" alt=""/>
+<img src="https://github.com/AnGaIs/FrontDashBoard/blob/master/screens/dash.png" width="900" alt=""/>
 
 
 
