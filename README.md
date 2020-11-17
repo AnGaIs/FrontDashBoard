@@ -15,9 +15,8 @@ Portfolio com a criação de alguns Dashboards.
 
 ## Screens
 
-<p align="center">
-  <img width="900" src="https://wpimg.wallstcn.com/a5894c1b-f6af-456e-82df-1151da0839bf.png">
-</p>
+<img src="https://github.com/AnGaIs/FrontDashBoard/blob/master/screens/dash.png" width="500" alt=""/>
+
 
 
 ## Tecnologias utilizadas
